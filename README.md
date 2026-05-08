@@ -7,6 +7,8 @@ Despliegue sencillo de AdGuard Home usando Docker Compose.
 ```bash
 docker-compose up -d
 ```
+## Panel de administrador
+Para acceder http://localhost
 
 ## Cómo Funciona
 
