@@ -1,3 +1,4 @@
+# Hecho por: Hugo Mata
 # Configuración de AdGuard Home
 
 Despliegue sencillo de AdGuard Home usando Docker Compose.
